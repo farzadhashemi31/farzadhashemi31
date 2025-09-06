@@ -25,17 +25,15 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-  <img src="images/tech/html5.svg" alt="HTML5" width="50" height="50"/>
-  <img src="images/tech/css3.svg" alt="CSS3" width="50" height="50"/>
-  <img src="images/tech/tailwindcss.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="images/tech/javascript.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="images/tech/dotnet.svg" alt=".NET" width="50" height="50"/>
-  <img src="images/tech/csharp.svg" alt="C#" width="50" height="50"/>
-  <img src="images/tech/sqlserver.png" alt="SQL Server" width="50" height="50"/>
-  <img src="images/tech/sqlite.svg" alt="SQLite" width="50" height="50"/>
-  <img src="images/tech/docker.svg" alt="Docker" width="50" height="50"/>
-</p>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 
 ---
