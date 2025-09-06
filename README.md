@@ -31,4 +31,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-ori
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadhashemi31&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadhashemi31&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=farzadhashemi31&theme=radical)  
+
+---
+
+### 🌍 Connect with me
+[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://farzadhashemiresome.liara.run/)  
+[![CafeKetab](https://img.shields.io/badge/CafeKetab-FF7F50?logo=coffeescript&logoColor=white)](https://cafeketab-sh.ir)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+📧 Email: **farzadhashemi.work@gmail.com**  
+
+---
+
+✨ _"Coding is like coffee… can’t start the day without it!"_ ☕
