@@ -1,5 +1,6 @@
-![Coding GIF](<img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" alt="tailwind" width="70" height="70"/>
-)
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+
 
 # Hey 👋 I'm Farzad  
 
