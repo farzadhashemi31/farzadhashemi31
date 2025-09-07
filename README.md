@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHltYzBxMzhlZ25zM2g0djE1cjlzY3VkcGZ1ZDhnd3IwbGEzdXdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding" width="100%" />
 </div>
+
 
 
 
